@@ -32,6 +32,12 @@ entity/relation embeddings under each dataset's `rerank/` directory) are provide
 
 📥 **[Download the 4 datasets](https://drive.google.com/drive/folders/1q4e256h6UL0j9kIGm1k39yOMgbZoXe-R?usp=sharing)**
 
+**Original Dataset Sources:**
+* **[DrugMechDB](https://github.com/SuLab/DrugMechDB)**
+* **[PrimeKG](https://github.com/mims-harvard/PrimeKG)**
+* **[Hetionet](https://github.com/hetio/hetionet)**
+* **[PharmKG / PharmKG8k](https://github.com/BiomedSciAI/PharmKG)**
+
 Place each dataset folder under [`data/`](data/) so the layout is:
 ```
 data/
@@ -101,7 +107,11 @@ python infer.py \
 | `hf_space/` | Public demonstrator (Module 5: explanatory context & mechanistic reasoning) |
 | `*-hypo.py`, `run_bioegat-hypo.sh` | LLM-hypothesis-augmented variant (Module-1 candidate union) |
 
+## Demostration
+[Screencast from 2026-07-03 16-56-12.webm](https://github.com/user-attachments/assets/32e85e22-203f-437f-9903-3483bde621d7)
+
 ## Citation
+
 This work builds on DrKGC:
 ```bibtex
 @inproceedings{xiao-etal-2025-drkgc,
