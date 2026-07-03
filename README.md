@@ -108,7 +108,7 @@ python infer.py \
 | `*-hypo.py`, `run_bioegat-hypo.sh` | LLM-hypothesis-augmented variant (Module-1 candidate union) |
 
 ## Demostration
-[Screencast from 2026-07-03 16-56-12.webm](https://github.com/user-attachments/assets/32e85e22-203f-437f-9903-3483bde621d7)
+[Demo](https://github.com/user-attachments/assets/32e85e22-203f-437f-9903-3483bde621d7)
 
 ## Citation
 
