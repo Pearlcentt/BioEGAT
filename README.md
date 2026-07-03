@@ -36,7 +36,7 @@ entity/relation embeddings under each dataset's `rerank/` directory) are provide
 * **[DrugMechDB](https://github.com/SuLab/DrugMechDB)**
 * **[PrimeKG](https://github.com/mims-harvard/PrimeKG)**
 * **[Hetionet](https://github.com/hetio/hetionet)**
-* **[PharmKG / PharmKG8k](https://github.com/BiomedSciAI/PharmKG)**
+* **[PharmKG / PharmKG8k](https://zenodo.org/records/4525237)**
 
 Place each dataset folder under [`data/`](data/) so the layout is:
 ```
